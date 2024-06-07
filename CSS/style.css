@@ -1,0 +1,10 @@
+body {
+    background-color: #ffe259;
+    background: linear-gradient(to right, #e0474c, #ede465);
+}
+
+.bg {
+    background-image: url(../IMG/compra.jpg);
+    background-position: center;
+    background-size: cover;
+}
