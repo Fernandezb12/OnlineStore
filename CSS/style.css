@@ -55,3 +55,14 @@ body.dashboard {
 .card-body form {
     margin-top: 20px;
 }
+.table thead th {
+    vertical-align: middle;
+    text-align: center;
+}
+.table tbody td {
+    vertical-align: middle;
+    text-align: center;
+}
+.modal .form-group label {
+    font-weight: bold;
+}
